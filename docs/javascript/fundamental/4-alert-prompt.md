@@ -19,7 +19,7 @@ Alert is used to display any message to user. It accepts any message in `string`
 
 ```js
 alert("Hello World!");
-alert("Hello" + " " + "World!");
+alert("Hello" + " " + "World!")
 ```
 
 ### `prompt`
